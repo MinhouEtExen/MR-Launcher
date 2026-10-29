@@ -38,3 +38,4 @@ MR_MINHOU
 ### 👑 Crédits
 * **Développeur Principal :** BY MINHOU_569
 * **Technologies :** C++ (Win32 API) & Windows Batch Scripts
+discord code pour mon compte discord code limité
