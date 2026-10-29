@@ -14,13 +14,7 @@
 
 ## 🛠️ Installation en 1 seconde !
 
-Pour installer instantanément le **Lanceur MR** sur votre ordinateur sans rien télécharger manuellement, ouvrez une invite de commandes **Windows PowerShell** et collez la commande magique suivante :
-
-```powershell
-irm "https://githubusercontent.com" | iex
-```
-
----
+Pour installer instantanément le **Lanceur MR** sur votre ordinateur sans rien télécharger manuellement, ouvrez une invite de commandes **Windows PowerShell** et collez la commande magique suivante
 
 ## 🎮 Comment l'utiliser ?
 
@@ -29,10 +23,6 @@ Une fois l'installation terminée, fermez simplement votre terminal, ouvrez-en u
 ```bash
 MR_MINHOU
 ```
-
-* Choisissez **Y** pour démarrer le programme et faire apparaître votre application de codes secrets.
-* Choisissez **N** pour quitter proprement et fermer la fenêtre instantanément.
-
 ---
 
 ### 👑 Crédits
